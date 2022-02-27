@@ -7,7 +7,7 @@
 		"server": "nodemon backend/server.js",
 		"client": "yarn --cwd frontend start ",
 		"dev": "concurrently \"yarn client\" \"yarn run server\"",
-		"heroku-postbuild": "YARN_PRODUCTION=false yarn install --cwd frontend && yarn run build --cwd frontend"
+		"heroku-postbuild": "YARN_PRODUCTION=false yarn --cwd frontend install && yarn --cwd frontend run build"
 	},
 	"author": "ompi",
 	"license": "MIT",
