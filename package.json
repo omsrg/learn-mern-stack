@@ -6,7 +6,8 @@
 		"start": "node backend/server.js",
 		"server": "nodemon backend/server.js",
 		"client": "yarn --cwd frontend start ",
-		"dev": "concurrently \"yarn client\" \"yarn run server\""
+		"dev": "concurrently \"yarn client\" \"yarn run server\"",
+		"heroku-postbuild": "YARN_PRODUCTION=false yarn install --cwd frontend && yarn run build --cwd frontend"
 	},
 	"author": "ompi",
 	"license": "MIT",
