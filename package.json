@@ -5,7 +5,8 @@
 	"scripts": {
 		"start": "node backend/server.js",
 		"server": "nodemon backend/server.js",
-		"client": "yarn --cwd frontend start "
+		"client": "yarn --cwd frontend start ",
+		"dev": "concurrently \"yarn client\" \"yarn run server\""
 	},
 	"author": "ompi",
 	"license": "MIT",
