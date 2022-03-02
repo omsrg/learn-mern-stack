@@ -70,7 +70,7 @@ const Register = () => {
 			</section>
 
 			<section className='form'>
-				<form onSubmit={onSubmit}>
+				<form onSubmit={onSubmit} autoComplete='off'>
 					<div className='form-group'>
 						<input
 							type='text'

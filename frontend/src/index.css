@@ -9,11 +9,12 @@
 body {
 	font-family: 'Poppins', sans-serif;
 	height: 100vh;
+	color: #4338ca;
 }
 
 a {
 	text-decoration: none;
-	color: #000;
+	color: #4338ca;
 }
 
 p {
@@ -68,7 +69,7 @@ h3 {
 }
 
 .header ul li a:hover {
-	color: #777;
+	color: #818cf8;
 }
 
 .header ul li a svg {
@@ -83,7 +84,7 @@ h3 {
 }
 
 .heading p {
-	color: #828282;
+	color: #818cf8;
 }
 
 .goals {
@@ -129,6 +130,11 @@ h3 {
 	font-family: inherit;
 }
 
+.form-group input:focus,
+.form-group textarea:focus {
+	outline: 1px solid #4338ca;
+}
+
 .form-group label {
 	text-align: left;
 	display: block;
@@ -137,7 +143,7 @@ h3 {
 
 .btn {
 	padding: 10px 20px;
-	border: 1px solid #000;
+	border: 1px solid #4338ca;
 	border-radius: 5px;
 	background: #4338ca;
 	color: #fff;
@@ -149,6 +155,7 @@ h3 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	transition: 0.3s;
 }
 
 .btn svg {
@@ -157,7 +164,7 @@ h3 {
 
 .btn-reverse {
 	background: #fff;
-	color: #000;
+	color: #4338ca;
 }
 
 .btn-block {
@@ -166,7 +173,7 @@ h3 {
 }
 
 .btn:hover {
-	transform: scale(0.98);
+	background: #6366f1;
 }
 
 .loadingSpinnerContainer {
