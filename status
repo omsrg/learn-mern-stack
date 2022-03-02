@@ -1,0 +1,89 @@
+[33mcommit 18942da3b564893ca81d065557c5bbd508aeb774[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Wed Mar 2 17:10:56 2022 +0700
+
+    remove /build from gitignore
+
+[33mcommit 222acd5ed1b9c7bf6259041cedc4f6acd98c165d[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Wed Mar 2 16:44:48 2022 +0700
+
+    test
+
+[33mcommit 97dd726073acc3dd409c8f9fe8ab71a5e914ced5[m[33m ([m[1;31mheroku/main[m[33m)[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sun Feb 27 18:04:22 2022 +0700
+
+    fix typo
+
+[33mcommit 859c196c163cbfe4626c8557fa177d8bd76eca28[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sun Feb 27 17:57:50 2022 +0700
+
+    edited postbuild
+
+[33mcommit 1b64d5c2d46d85984ffea4ab75b60366192f4c59[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sun Feb 27 17:42:27 2022 +0700
+
+    added gitignore
+
+[33mcommit 3741df2e251f6e5a3300422e17613a029c4fe203[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sun Feb 27 17:24:08 2022 +0700
+
+    edited scripts
+
+[33mcommit 630ab31819727c6de5e153387efaabd1e2e1918b[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sun Feb 27 17:00:36 2022 +0700
+
+    add scripts
+
+[33mcommit c9715006d4403c6460e8fbc5e2ed358b54ec646b[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sun Feb 27 16:29:29 2022 +0700
+
+    prepare deploy
+
+[33mcommit b6c048cf69b254a024b75611ea0592ba91139545[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sun Feb 27 15:39:23 2022 +0700
+
+    finished
+
+[33mcommit 6ce68d46abf27ff25a6ad29a49753afcd7e94ed0[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sun Feb 27 00:51:35 2022 +0700
+
+    added frontend ui
+
+[33mcommit f77af3ae58f1995ce1eeade946e6d1d0bf5d74ee[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Sat Feb 26 23:15:36 2022 +0700
+
+    finished backend
+
+[33mcommit 5ca60f3474b4ab2fdf4156a2ff940c9b23af1252[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Thu Feb 17 20:16:54 2022 +0700
+
+    initial rest api
+
+[33mcommit 37c534c0c3f237248c85e920d6a8c04a3c4677cd[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Thu Feb 17 18:25:29 2022 +0700
+
+    route set up
+
+[33mcommit 3b9a3a1cc923196163aa72a138de08f962cb9977[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Thu Feb 17 18:06:01 2022 +0700
+
+    created controller functions
+
+[33mcommit 2d8e978b5a2c0600e5e76a883383c5f93671e737[m
+Author: omsrg <siregar.om@gmail.com>
+Date:   Thu Feb 17 17:16:53 2022 +0700
+
+    initial commit
