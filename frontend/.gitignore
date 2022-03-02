@@ -12,8 +12,6 @@
 /.next/
 /out/
 
-# production
-
 
 # misc
 .DS_Store
